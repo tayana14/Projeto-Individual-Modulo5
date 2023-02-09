@@ -7,4 +7,4 @@ O Projeto desse modulo consistiu em criar uma ferramenta no terminal que vai aux
 
 🏷️ O código roda em um laço que recebe as propriedades até a pessoa digitar a palavra “SAIR”, quando isso acontecer vai ser impresso no terminal a lista das propriedades ordenadas de A-Z uma em cada linha.
 
-<img src="https://imgur.com/8WZkP9r.png></img>
+<img src="https://imgur.com/8WZkP9r.png width="100%"></img>
